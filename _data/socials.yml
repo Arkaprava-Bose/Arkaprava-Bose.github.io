@@ -9,6 +9,6 @@ email: bose.arkaprava09@gmail.com # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/iiser-kol-logo.png.png # can be png, svg, jpg
+  logo: assets/img/iiser-kolkata-logo.png.png # can be png, svg, jpg
   title: Institute Email 
-  url: "mailto: ab23ms037@iiserkol.ac.in"
+  url: "mailto:ab23ms037@iiserkol.ac.in"
