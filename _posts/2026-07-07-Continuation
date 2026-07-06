@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jensen Shannon Divergence for Power Spectral Analysis
-date: 2026-06-22
+title: Continuation Methods for Fold Bifurcations in Stroboscopic Maps
+date: 2026-07-07
 ---
 ## Problem Statement
 We consider a periodically forced discrete map possessing both a stable and an unstable fixed point. As the forcing amplitude increases, 
