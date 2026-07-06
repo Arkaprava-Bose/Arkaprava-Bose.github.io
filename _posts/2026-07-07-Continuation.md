@@ -4,15 +4,19 @@ title: Continuation Methods for Fold Bifurcations in Stroboscopic Maps
 date: 2026-07-07
 ---
 ## Problem Statement
+
 We consider a periodically forced discrete map possessing both a stable and an unstable fixed point. As the forcing amplitude increases, 
 the stable fixed point eventually collides with the unstable one, leading to a saddle-node (fold) bifurcation of the corresponding stroboscopic map. 
 Determining the critical forcing amplitude by directly solving the coupled bifurcation conditions
+
 $$
 G(x,\varepsilon) - x = 0, G_y(x,\varepsilon) - 1 = 0
 $$
+
 can be challenging, particularly for higher-period stroboscopic maps where the composed map becomes increasingly complicated.
 In this post we discuss a computationally inexpensive continuation procedure that accurately estimates the critical forcing amplitude while simultaneously tracking the desired branch of 
 stroboscopic fixed points.
+
 ---
 
 ## Continuation Procedure
